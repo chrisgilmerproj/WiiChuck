@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For WiiChuck
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WiiChuck	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setpowerpins	KEYWORD2
+init	KEYWORD2
+send_request	KEYWORD2
+decode_byte	KEYWORD2
+get_data	KEYWORD2
+get_buffer	KEYWORD2
+set_buffer	KEYWORD2
+print_data	KEYWORD2
+zbutton	KEYWORD2
+cbutton	KEYWORD2
+joystickx	KEYWORD2
+joysticky	KEYWORD2
+accelx	KEYWORD2
+accely	KEYWORD2
+accelz	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
